@@ -1,0 +1,5 @@
+x
+.
+ID=FBgn0261836;Name=Msp-300;fullname=Muscle-specific
+ID=FBgn0033932;Name=Dh44-R1;fullname=Diuretic
+ID=FBgn0260943;Name=Rbp6;fullname=RNA-binding

@@ -1,0 +1,116 @@
+gene,Name,Reason
+alpha-Cat,alpha catenin,septate junction component
+aPKC,DaPKC,septate junction component
+atpalpha,Na pump alpha subunit,alpha subunit of sodium pump
+baz,Bazooka,septate junction component
+bou,Boudin,septate junction component
+Ca-Ma2d,Ca2+ channel Muscle-specific alpha2/delta subunit,calcium channel
+Ca-alpha1D,Ca2+-channel protein α1 subunit D,calcium channel *modified gene symbol
+Ca-alpha1T,Ca2+-channel protein α1 subunit T,calcium channel *modified gene symbol
+Ca-beta,Ca2+-channel-protein-β-subunit,calcium channel *modified gene symbol
+cac,cacophony,calcium channel
+capa,Capability,neuropeptide involved in ion balance
+capaR,Capa receptior,receptor for neuropeptide involved in ion balance
+pck,pickel,septate junction component
+dlg1,Discs large,septate junction component
+cold,coiled,septate junction component
+mesh,mesh,septate junction component
+arm,Armadillo,septate junction component
+bark,Bark beetle,septate junction component *modified gene symbol
+cno,Canoe,septate junction component
+cora,coracle,septate junction component
+crb,Crumbs,septate junction component
+crim,Crimpled,septate junction component
+crok,Crooked,septate junction component
+Dh31,Diuretic hormone 31,neuropeptide involved in ion balance
+Dh31-R,DH31 receptor 1,receptor for neuropeptide involved in ion balance *modified gene symbol
+Dh44,Diuretic hormone 44,neuropeptide involved in ion balance
+Dh44-R1,Dh44 receptor 1,receptor for neuropeptide involved in ion balance
+Dh44-R2,DH 44 receptor 2,receptor for neuropeptide involved in ion balance
+Drip,Drip,putative aquaporin (water balance is tied to ion balance)
+eag,ether a go-go,Potassium channel
+Eglp1,Entomoglyceroporin 1,putative aquaporin (water balance is tied to ion balance)
+Eglp2,Entomoglyceroporin 2,putative aquaporin (water balance is tied to ion balance)
+Eglp3,Entomoglyceroporin 3,putative aquaporin (water balance is tied to ion balance)
+Eglp4,Entomoglyceroporin 4,putative aquaporin (water balance is tied to ion balance)
+Elk,Eag-like K+ channel,potassium channel
+Fas3,Fasciclin III,septate junction component
+Gli,Gliotactin,septate junction component
+Hk,Hyperkinetic,potassium channel
+Irk1,Inwardly rectifying potassium channel 1,Potassium channel
+Irk2,Inwardly rectifying potassium channel 2,Potassium channel
+Irk3,Inwardly rectifying potassium channel 3,potassium channel
+ITP,Ion transport peptide,neuropeptide involved in ion balance
+KCNQ,KCNQ potassium channel,potassium channel
+kune,kune-kune,septate junction component
+l(2)gl,Lgl,septate junction component
+Lac,Lachesin,septate junction component
+Lk,Leucokinin,neuropeptide involved in ion balance
+Lkr,Leucokinin receptor,receptor for neuropeptide involved in ion balance
+Nckx30C,Nckx30C,calcium-potassium:sodium exchanger
+Nha2,Na+/H+ antiporter 2,Sodium-hydrogen exchanger
+Nhe1,Na+/H+ exchanger 1,Sodium-hydrogen exchanger
+NHE3,Na+/H+ exchanger 3,Sodium-hydrogen exchanger
+NKAIN,"Na,K-ATPase Interacting",regluator of sodium pump
+NKCC,sodium potassium chloride cotransporter,exchanges ions across membranes
+Nrg,Neuroglian,septate junction component
+nrv1,nervana 1,Beta subunit of sodium pump
+nrv2,Nrv2,septate junction component
+nrv2,nervana 2,beta subunit of sodium pump
+nrv3,nervana 3,Beta subunit of sodium pump
+Nrx-IV,Neurexin IV,septate junction component
+Ork1,Open rectifier K+ channel 1,Potassium channel
+par-6,DmPar6,septate junction component
+para,paralytic,sodium channel alpha subunit
+PMCA,plasma membrane calcium ATPase,calcium pump
+Prip,Prip,putative aquaporin (water balance is tied to ion balance)
+scrib,Scribble,septate junction component
+sdt,Stardust,septate junction component
+sei,Seizure,potassium channel
+SERCA,Sarco/endoplasmic reticulum Ca(2+)-ATPase,Calcium pump
+Sh,Shaker,potassium channel
+Shab,Shaker conjugate b,Potassium channel
+Shal,Shaker conjugate 1,Potassium channel
+Shaw,Shaker conjugate w,Potassium channel
+shg,Shotgun,septate junction component
+sinu,sinuous,septate junction component
+Slo,Slowpoke,Potassium channel
+Ssk,Snakeskin,septate junction component
+Teh1,tipE homolog 1,sodium channel beta subunit
+Teh2,tipE homolog 2 (a.k.a. Vacuolar H+ ATPase M9.7 subunit c),sodium channel beta subunit
+Teh3,tipE homolog 3,sodium channel beta subunit
+Teh4,tipE homolog 4,sodium channel beta subunit
+tipE,temperature-induced paralytic E,sodium channel beta subunit
+Tsf2,Melanotransferin/Transferin 2,septate junction component
+vari,Varicose,septate junction component
+Vha100-1,Vacuolar H+ ATPase 100kD subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha100-2,Vacuolar H+ ATPase 100kD subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha100-3,Vacuolar H+ ATPase 100kD subunit 3,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha100-4,Vacuolar H+ ATPase 100kD subunit 4,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha100-5,Vacuolar H+ ATPase 100kD subunit 5,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha13,Vacuolar H+ ATPase 13kD subunit,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha14-1,Vacuolar H+ ATPase 14kD subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha14-2,Vacuolar H+ ATPase 14kD subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha16-1,Vacuolar H+ ATPase 16kD subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha16-2,Vacuolar H+ ATPase 16kD subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha16-3,Vacuolar H+ ATPase 16kD subunit 3,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha16-4,Vacuolar H+ ATPase 16kD subunit 4,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha16-5,Vacuolar H+ ATPase 16kD subunit 5,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha26,Vacuolar H+-ATPase 26kD subunit,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha36-1,Vacuolar H+ ATPase 36kD subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha36-2,Vacuolar H+ ATPase 36kD subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha36-3,Vacuolar H+ ATPase 36kD subunit 3,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha44,Vacuolar H+ ATPase 44kD subunit,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha55,Vacuolar H+-ATPase 55kD subunit,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha68-1,Vacuolar H+ ATPase 68kD subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha68-2,Vacuolar H+ ATPase 68 kDa subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+Vha68-3,Vacuolar H+ ATPase 68kD subunit 3,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaAC39-1,Vacuolar H+ ATPase AC39 subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaAC39-2,Vacuolar H+ ATPase AC39 subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaM9.7-a,Vacuolar H+ ATPase M9.7 subunit a,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaM9.7-b,Vacuolar H+ ATPase M9.7 subunit b,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaM9.7-d,Vacuolar H+ ATPase M9.7 subunit d,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaPPA1-1,Vacuolar H+ ATPase PPA1 subunit 1,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaPPA1-2,Vacuolar H+ ATPase PPA1 subunit 2,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+VhaSFD,Vacuolar H+-ATPase SFD subunit,component of V-ATPase (creates H+ gradients used to drive other ions across membranes)
+zyd,Zydeco,sodium calcium exchanger
